@@ -1,3 +1,9 @@
 <resources>
-	<string name="app_name">Authorization App</string>
+	<string name="app_name" translatable="false">Authorization App</string>
+
+	<string name="login_hint">Login</string>
+	<string name="password_hint">Password</string>
+	<string name="title">Authorization</string>
+	<string name="log_in">LogIn</string>
+	<string name="payments">Payments</string>
 </resources>
